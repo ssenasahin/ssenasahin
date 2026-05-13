@@ -18,9 +18,9 @@ $ cat /etc/profile.d/sena.sh
 
 NAME="Sena Şahin"
 ROLE="Computer Engineering Student & Cybersecurity Enthusiast"
-UNIVERSITY="Zonguldak Bülent Ecevit Üniversitesi — Bilgisayar Mühendisliği"
-ALSO="İstanbul Üniversitesi — Web Tasarımı ve Kodlama (Ön Lisans)"
-LOCATION="İstanbul, Türkiye 🇹🇷"
+UNIVERSITY="Zonguldak Bülent Ecevit Üniversitesi — Computer Engineering"
+ALSO="Istanbul University — Web Design & Coding (Associate Degree)"
+LOCATION="Istanbul, Turkey 🇹🇷"
 FOCUS="Offensive Security | Web Security | Network Architecture"
 STATUS="Learning never stops... [ ████████░░ 80% ]"
 ```
@@ -33,24 +33,11 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    SECURITY DOMAINS                         │
-├─────────────────────────────────────────────────────────────┤
-│  🔴  Offensive Security     ████████████░░░░  75%           │
-│  🌐  Web Application Sec    ███████████░░░░░  70%           │
-│  🔺  Privilege Escalation   █████████░░░░░░░  60%           │
-│  🕸️  Network Analysis       ████████████░░░░  75%           │
-│  📜  Smart Contracts        ██████░░░░░░░░░░  40%           │
-│  🐧  Linux / Kali           ████████████████  85%           │
-└─────────────────────────────────────────────────────────────┘
-```
-
-- 🏴 **CTF & Labs** — [Hackviser](https://hackviser.com) platformunda aktif CTF çözümleri; Web Güvenliği ve Privilege Escalation odaklı
-- 🌐 **Web Security** — SQL Injection, XSS, IDOR ve diğer OWASP Top 10 zafiyetleri üzerine pratik çalışmalar
-- 🕸️ **Network Simulations** — Cisco Packet Tracer ile ağ topolojileri, IP subnetting, router & switch konfigürasyonları
-- 🖥️ **Virtual Lab** — VMware & VirtualBox üzerinde Kali Linux kurulumu ve zafiyet analizi ortamları
-- 🔐 **Siber Vatan 2026** Program Üyesi
+- 🏴 **CTF & Labs** — Active CTF challenges on [Hackviser](https://hackviser.com); focused on Web Security and Privilege Escalation
+- 🌐 **Web Security** — Hands-on practice with SQL Injection, XSS, IDOR and other OWASP Top 10 vulnerabilities
+- 🕸️ **Network Simulations** — Network topologies, IP subnetting, router & switch configurations with Cisco Packet Tracer
+- 🖥️ **Virtual Lab** — Kali Linux setup and vulnerability analysis environments on VMware
+- 🔐 **Siber Vatan 2026** — Program Member
 
 ---
 
@@ -79,7 +66,6 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 **Dev Tools**
 
@@ -99,13 +85,13 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 
 </div>
 
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|-------------|
-| 🛡️ **[BarsLAB Blog](https://github.com/themlie/BarsLAB)** | Güvenli kişisel blog platformu — session yönetimi, rate limiting, XSS koruması | Node.js · Express · SQLite |
-| 📱 **Calculator (Android)** | Temel işlemler destekli Android hesap makinesi | Java · Android Studio |
-| ⚙️ **C# Mini Projects** | Windows Forms ve konsol uygulamaları koleksiyonu | C# · .NET |
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| 🛡️ **[BarsLAB Blog](https://github.com/themlie/BarsLAB)** | Secure personal blog platform — session management, rate limiting, XSS protection | Node.js · Express · SQLite |
+| 📱 **Calculator (Android)** | Android calculator app with basic operations | Java · Android Studio |
+| ⚙️ **C# Mini Projects** | Collection of Windows Forms and console applications | C# · .NET |
 
-> 🔨 Daha fazlası geliyor...
+> 🔨 More coming soon...
 
 ---
 
@@ -123,18 +109,6 @@ current_focus = {
     "goal":       "Specialize in offensive security & application security"
 }
 ```
-
----
-
-<div align="center">
-
-## 🤝 Communities
-
-</div>
-
-- 🤖 **Karaelmas Yapay Zeka Topluluğu** — Üye *(Kasım 2023 – devam ediyor)*
-- 🚁 **Göktürk İHA Teknoloji Takımı** — Mobil Programlama Bölüm Üyesi *(Mayıs 2023 – devam ediyor)*
-- 🔐 **Siber Vatan 2026** — Program Üyesi
 
 ---
 
