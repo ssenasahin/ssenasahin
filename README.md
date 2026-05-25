@@ -36,7 +36,6 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 - 🏴 **CTF & Labs** — Active CTF challenges on [Hackviser](https://hackviser.com); focused on Web Security and Privilege Escalation
 - 🌐 **Web Security** — Hands-on practice with SQL Injection, XSS, IDOR and other OWASP Top 10 vulnerabilities
 - 🕸️ **Network Simulations** — Network topologies, IP subnetting, router & switch configurations with Cisco Packet Tracer
-- 🖥️ **Virtual Lab** — Kali Linux setup and vulnerability analysis environments on VMware
 - 🔐 **Siber Vatan 2026** — Program Member
 
 ---
