@@ -29,14 +29,14 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 
 <div align="center">
 
-## 🛡️ Cybersecurity Focus
+##  Cybersecurity Focus
 
 </div>
 
-- 🏴 **CTF & Labs** — Active CTF challenges on [Hackviser](https://hackviser.com); focused on Web Security and Privilege Escalation
-- 🌐 **Web Security** — Hands-on practice with SQL Injection, XSS, IDOR and other OWASP Top 10 vulnerabilities
-- 🕸️ **Network Simulations** — Network topologies, IP subnetting, router & switch configurations with Cisco Packet Tracer
-- 🔐 **Siber Vatan 2026** — Program Member
+-  **CTF & Labs** — Active CTF challenges on [Hackviser](https://hackviser.com); focused on Web Security and Privilege Escalation
+-  **Web Security** — Hands-on practice with SQL Injection, XSS, IDOR and other OWASP Top 10 vulnerabilities
+-  **Network Simulations** — Network topologies, IP subnetting, router & switch configurations with Cisco Packet Tracer
+- **Siber Vatan 2026** — Program Member
 
 ---
 
@@ -80,23 +80,23 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 
 <div align="center">
 
-## 🚀 Projects
+## Projects
 
 </div>
 
 | Project | Description | Technologies |
 |---------|-------------|-------------|
-| 🛡️ **[BarsLAB Blog](https://github.com/themlie/BarsLAB)** | Secure personal blog platform — session management, rate limiting, XSS protection | Node.js · Express · SQLite |
-| 📱 **Calculator (Android)** | Android calculator app with basic operations | Java · Android Studio |
-| ⚙️ **C# Mini Projects** | Collection of Windows Forms and console applications | C# · .NET |
+|  **[BarsLAB Blog](https://github.com/themlie/BarsLAB)** | Secure personal blog platform — session management, rate limiting, XSS protection | Node.js · Express · SQLite |
+|  **Calculator (Android)** | Android calculator app with basic operations | Java · Android Studio |
+|  **miniCTF** | A deliberately vulnerable full-stack web application designed for practicing offensive security and CTF challenges. |Node.js, Express.js ·SQLite |
 
-> 🔨 More coming soon...
+>  More coming soon...
 
 ---
 
 <div align="center">
 
-## 🎯 Currently
+## Currently
 
 </div>
 
@@ -113,7 +113,7 @@ current_focus = {
 
 <div align="center">
 
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-sahin/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themlie)
