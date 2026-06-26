@@ -19,7 +19,7 @@ $ cat /etc/profile.d/sena.sh
 NAME="Sena Şahin"
 ROLE="Computer Engineering Student & Cybersecurity Enthusiast"
 UNIVERSITY="Zonguldak Bülent Ecevit Üniversitesi — Computer Engineering"
-ALSO="Istanbul University — Web Design & Coding (Associate Degree)"
+ALSO="Istanbul University — Web Design & Coding"
 LOCATION="Istanbul, Turkey 🇹🇷"
 FOCUS="Offensive Security | Web Security | Network Architecture"
 STATUS="Learning never stops... [ ████████░░ 80% ]"
@@ -42,7 +42,7 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 
 <div align="center">
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 </div>
 
@@ -66,33 +66,11 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-**Dev Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-
-## Projects
-
-</div>
-
-| Project | Description | Technologies |
-|---------|-------------|-------------|
-|  **[BarsLAB Blog](https://github.com/themlie/BarsLAB)** | Secure personal blog platform — session management, rate limiting, XSS protection | Node.js · Express · SQLite |
-|  **Calculator (Android)** | Android calculator app with basic operations | Java · Android Studio |
-|  **miniCTF** | A deliberately vulnerable full-stack web application designed for practicing offensive security and CTF challenges. |Node.js, Express.js ·SQLite |
-
->  More coming soon...
-
----
 
 <div align="center">
 
