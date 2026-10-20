@@ -24,7 +24,7 @@ LOCATION="Istanbul, Turkey 🇹🇷"
 FOCUS="Offensive Security | Web Security | Network Architecture"
 ```
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@ FOCUS="Offensive Security | Web Security | Network Architecture"
 
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -40,7 +40,7 @@ FOCUS="Offensive Security | Web Security | Network Architecture"
 
 </div>
 
-## 🤝 Connect
+##  Connect
 
 <div align="center">
 
