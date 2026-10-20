@@ -1,23 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0E4429,100:26A641&height=200&section=header&text=Sena%20%C5%9Eahin&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Engineering%20Student%20%C2%B7%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Sena Şahin"/>
+```
+███████╗███████╗███╗   ██╗ █████╗     ███████╗ █████╗ ██╗  ██╗██╗███╗   ██╗
+██╔════╝██╔════╝████╗  ██║██╔══██╗    ██╔════╝██╔══██╗██║  ██║██║████╗  ██║
+███████╗█████╗  ██╔██╗ ██║███████║    ███████╗███████║███████║██║██╔██╗ ██║
+╚════██║██╔══╝  ██║╚██╗██║██╔══██║    ╚════██║██╔══██║██╔══██║██║██║╚██╗██║
+███████║███████╗██║ ╚████║██║  ██║    ███████║██║  ██║██║  ██║██║██║ ╚████║
+╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=520&lines=%24+whoami;Offensive+Security;Web+Security;Network+Architecture" alt="Offensive Security · Web Security · Network Architecture"/>
+### `whoami`
 
 </div>
 
-## 👩‍💻 About Me
+```bash
+$ cat /etc/profile.d/sena.sh
 
-- 🎓 Computer Engineering student at **Zonguldak Bülent Ecevit University**
-- 💻 Web Design & Coding at **Istanbul University**
-- 🛡️ Focused on **offensive security**, **web security** and **network architecture**
-- 📍 Istanbul, Turkey
+NAME="Sena Şahin"
+ROLE="Computer Engineering Student & Cybersecurity Enthusiast"
+UNIVERSITY="Zonguldak Bülent Ecevit Üniversitesi — Computer Engineering"
+ALSO="Istanbul University — Web Design & Coding"
+LOCATION="Istanbul, Turkey 🇹🇷"
+FOCUS="Offensive Security | Web Security | Network Architecture"
+```
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssenasahin&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_radius=10&custom_title=Most%20Used%20Languages&disable_animations=true" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssenasahin&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&custom_title=Most%20Used%20Languages&disable_animations=true" alt="Most used languages"/>
 
 </div>
 
@@ -40,7 +51,5 @@
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=themlie.themlie)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26A641,40:0E4429,100:0D1117&height=110&section=footer" width="100%" alt=""/>
 
 </div>
