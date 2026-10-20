@@ -22,21 +22,7 @@ UNIVERSITY="Zonguldak Bülent Ecevit Üniversitesi — Computer Engineering"
 ALSO="Istanbul University — Web Design & Coding"
 LOCATION="Istanbul, Turkey 🇹🇷"
 FOCUS="Offensive Security | Web Security | Network Architecture"
-STATUS="Learning never stops... [ ████████░░ 80% ]"
 ```
-
----
-
-<div align="center">
-
-##  Cybersecurity Focus
-
-</div>
-
--  **CTF & Labs** — Active CTF challenges on [Hackviser](https://hackviser.com); focused on Web Security and Privilege Escalation
--  **Web Security** — Hands-on practice with SQL Injection, XSS, IDOR and other OWASP Top 10 vulnerabilities
--  **Network Simulations** — Network topologies, IP subnetting, router & switch configurations with Cisco Packet Tracer
-- **Siber Vatan 2026** — Program Member
 
 ---
 
@@ -71,23 +57,6 @@ STATUS="Learning never stops... [ ████████░░ 80% ]"
 
 ---
 
-
-<div align="center">
-
-## Currently
-
-</div>
-
-```python
-current_focus = {
-    "learning":   ["Offensive Security", "Penetration Testing", "Smart Contracts"],
-    "practicing": ["CTF challenges on Hackviser", "Network topology design"],
-    "building":   ["Personal blog platform", "Security lab environments"],
-    "goal":       "Specialize in offensive security & application security"
-}
-```
-
----
 
 <div align="center">
 
