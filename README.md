@@ -94,8 +94,7 @@ current_focus = {
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-sahin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themlie)
-[![Blog](https://img.shields.io/badge/Blog-00D4FF?style=for-the-badge&logo=rss&logoColor=black)](https://github.com/themlie/BarsLAB)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssenasahin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sena111205@hotmail.com)
 
 <br/>
