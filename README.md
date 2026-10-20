@@ -1,66 +1,37 @@
 <div align="center">
 
-```
-███████╗███████╗███╗   ██╗ █████╗     ███████╗ █████╗ ██╗  ██╗██╗███╗   ██╗
-██╔════╝██╔════╝████╗  ██║██╔══██╗    ██╔════╝██╔══██╗██║  ██║██║████╗  ██║
-███████╗█████╗  ██╔██╗ ██║███████║    ███████╗███████║███████║██║██╔██╗ ██║
-╚════██║██╔══╝  ██║╚██╗██║██╔══██║    ╚════██║██╔══██║██╔══██║██║██║╚██╗██║
-███████║███████╗██║ ╚████║██║  ██║    ███████║██║  ██║██║  ██║██║██║ ╚████║
-╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0E4429,100:26A641&height=200&section=header&text=Sena%20%C5%9Eahin&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Engineering%20Student%20%C2%B7%20Cybersecurity%20Enthusiast&descSize=18&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Sena Şahin"/>
 
-### `whoami`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=520&lines=%24+whoami;Offensive+Security;Web+Security;Network+Architecture" alt="Offensive Security · Web Security · Network Architecture"/>
 
 </div>
 
-```bash
-$ cat /etc/profile.d/sena.sh
+## 👩‍💻 About Me
 
-NAME="Sena Şahin"
-ROLE="Computer Engineering Student & Cybersecurity Enthusiast"
-UNIVERSITY="Zonguldak Bülent Ecevit Üniversitesi — Computer Engineering"
-ALSO="Istanbul University — Web Design & Coding"
-LOCATION="Istanbul, Turkey 🇹🇷"
-FOCUS="Offensive Security | Web Security | Network Architecture"
-```
+- 🎓 Computer Engineering student at **Zonguldak Bülent Ecevit University**
+- 💻 Web Design & Coding at **Istanbul University**
+- 🛡️ Focused on **offensive security**, **web security** and **network architecture**
+- 📍 Istanbul, Turkey
 
----
+## ⚡ Tech Stack
 
 <div align="center">
 
-##  Tech Stack
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssenasahin&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_radius=10&custom_title=Most%20Used%20Languages&disable_animations=true" alt="Most used languages"/>
 
 </div>
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Security & Tools**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
+<img src="https://streak-stats.demolab.com/?user=ssenasahin&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=39D353&fire=FF6B6B&currStreakNum=B392F0&sideNums=6CA0FF&currStreakLabel=79C0FF&sideLabels=6CA0FF&dates=3FB950&disable_animations=true" alt="GitHub streak stats"/>
 
 </div>
 
----
-
+## 🤝 Connect
 
 <div align="center">
-
-## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-sahin/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssenasahin)
@@ -68,10 +39,8 @@ FOCUS="Offensive Security | Web Security | Network Architecture"
 
 <br/>
 
-```
-"The quieter you become, the more you are able to hear." — Kali Linux motto
-```
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=themlie.themlie)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26A641,40:0E4429,100:0D1117&height=110&section=footer" width="100%" alt=""/>
 
 </div>
